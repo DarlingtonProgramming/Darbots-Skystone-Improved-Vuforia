@@ -10,6 +10,7 @@ We found it to be millimeters.
 ## Progress?
 
 1. [x] Fetch Vuforia Skystone Image (2019-11-17)
-2. [ ] Add Black / Yellow Borders to Skystone Image
-3. [ ] Generate Vuforia Image Target
+2. [x] Add Black / Yellow Borders to Skystone Image (2019-11-18)
+3. [x] Generate Vuforia Image Target (2019-11-18)
+4. [ ] Add Example Vuforia Detection Code
 
